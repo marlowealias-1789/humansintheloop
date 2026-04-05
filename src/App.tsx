@@ -144,7 +144,7 @@ function App() {
                   onClick={() => scrollToSection('people')}
                   className="underline hover:text-gray-400 transition-colors"
                 >
-                  people
+                  humans
                 </button>
                 , supported by technology
               </h3>
@@ -186,7 +186,7 @@ function App() {
             className="text-4xl md:text-5xl lg:text-6xl font-bold mb-16"
             style={{ fontFamily: '"Helvetica Neue", Helvetica, Arial, sans-serif' }}
           >
-            PEOPLE
+            HUMANS
           </h2>
 
           <div className="space-y-16">
